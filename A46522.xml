@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The absolution of a penitent, according to the directions of the Church of England, with respect to Sir W. Perkins, Sir J. Friend, and Mr. Cranburne, lately executed for High Treason. Against Mr. Collier. In a letter from the country to a friend in London</title>
+            <author>P. H. J.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46522</idno>
+            <idno type="STC">Wing J26</idno>
+            <idno type="STC">ESTC R222599</idno>
+            <idno type="EEBO-CITATION">99833753</idno>
+            <idno type="PROQUEST">99833753</idno>
+            <idno type="VID">38231</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46522)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38231)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2209:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The absolution of a penitent, according to the directions of the Church of England, with respect to Sir W. Perkins, Sir J. Friend, and Mr. Cranburne, lately executed for High Treason. Against Mr. Collier. In a letter from the country to a friend in London</title>
+                  <author>P. H. J.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by J. Dawks in Wardrobe Court in Carter-lane,</publisher>
+                  <pubPlace>[Lond. :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: Sir, your most humble servant, P.H.J.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>In response to Collier, Jeremy.  A defence of the absolution given to Sr. William Perkins, at the place of execution. April the 3d.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Collier, Jeremy, 1650-1726. --  Defence of the absolution given to Sr. William Perkins, at the place of execution. April the 3d. --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:38231:1" rendition="simple:additions"/>
+            <head>The Abſolution of A PENITENT, According to the DIRECTIONS of the <hi>Church of England,</hi> With Reſpect to Sir <hi>W. Perkins,</hi> Sir <hi>J. Friend,</hi> and Mr. <hi>Cranburne,</hi> lately Executed for High Treaſon.</head>
+            <head type="sub">
+               <hi>Againſt Mr.</hi> COLLIER.</head>
+            <head type="sub">In a Letter from the Country to a Friend in <hi>London.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have receiv'd Mr. <hi>Colliers</hi> Defence of himſelf, againſt the Remarks that have been printed upon his Ab<g ref="char:EOLhyphen"/>ſolving of Sir <hi>William Perkins,</hi> and ſhall give you my thoughts of it, with the ſame freedom that you deſire them. I am ſorry (ſince you ſeem in ſome degree to be poſſeſs'd with a favourable Opinion of his Behaviour) that I am forc'd to ſay, that my Sentiments are, That he has neither <hi>acted Wiſely,</hi> nor defended himſelf <hi>modeſt<g ref="char:EOLhyphen"/>ly</hi> upon this occaſion; and as in the <hi>Fact</hi> he proceeded without due Conſideration, ſo in his <hi>Vindication</hi> he has
+<pb n="2" facs="tcp:38231:2"/>proſecuted it with Confidence and ill manners. You know my way, and therefore will, I hope, take the leſs offence at the roughneſs of the Expreſſions; the rather, becauſe the Paper I write againſt, has given ſuch provo<g ref="char:EOLhyphen"/>king occaſion. But to proceed, as he ſays, let us hear how he be ſpeaks the matter.</p>
+            <p>And Firſt, <hi>He complains that his Preſence and officiating at</hi> Tyburn, <hi>has been too hotly cenſur'd, and very much miſun<g ref="char:EOLhyphen"/>derſtood;</hi> he ſhould have ſaid, <hi>Miſrepreſented</hi> for the ſake of Friendſhip, and for a Token of Agreement be<g ref="char:EOLhyphen"/>tween the <hi>Old Church and the New.</hi> I cannot ima<g ref="char:EOLhyphen"/>gine in the name of Goodneſs, what he means, by endea<g ref="char:EOLhyphen"/>vouring to poſſeſs us, that we are miſtaken. Wou'd he perſwade us, That Sir <hi>William</hi> was Innocent of the Crime for which he ſuffer'd? Or, will he inform us, That he did acknowledge the Blackneſs of it to him, with his willingneſs to make all poſſible Reparation, and the Ju<g ref="char:EOLhyphen"/>ſtice of his Execution, particularly with regard to that Crime for which he was condemn'd, as Mr. <hi>King</hi> had done before, to his Reputation be it remember'd? Or, in fine, Would he deny that he gave him <hi>Abſolution?</hi> for this was the occaſion of the Cenſures he complains of, and that at which the Offence was taken. That a Man who ſtood ſentenc'd not barely as an Inſtrument, but alſo as a Contriver, and prime Manager of the moſt Barbarous and Ungenerous Deſign of Aſſaſſinating the King in cold Blood, ſhould, without making a Publick Abhorrance of the Wickedneſs of the Intention, and ſhewing the moſt ſincere Diſpoſition to give Satisfaction to thoſe he had endeavour'd to Injure; I ſay, here lay the <hi>Stumbling Block,</hi> that ſuch a Man, tho' he had done none of all this, ſhould nevertheleſs, obtain ſo eaſie and ſo glori<g ref="char:EOLhyphen"/>ous an <hi>Abſolution!</hi> Surely this, whatever he may think, could not but ſeem <hi>ſomething Extraordinary.</hi>
+            </p>
+            <p>
+               <pb n="3" facs="tcp:38231:2"/>
+But let us hear now his Report of the Caſe, for the bet<g ref="char:EOLhyphen"/>ter juding of the Matter.</p>
+            <p>By which he acquaints us <hi>with his Viſiting Sir</hi> William <hi>from time to time, and at laſt, of his being refus'd that liberty from</hi> Wedneſday <hi>till</hi> Friday <hi>at the Place of Execution;</hi> from whence he infers, the Neceſſity of his Abſolving of him there. And now for my life, I cannot ſee why this muſt neceſſarily follow, that becauſe he could not Abſolve him at <hi>Newgate,</hi> therefore he was oblig'd to do it at the <hi>Gal<g ref="char:EOLhyphen"/>lows:</hi> This looks as if he was reſolv'd to do it Right or Wrong, in deſpight of all Oppoſition. <hi>But Sir</hi> William, he ſays, <hi>had Qualify'd himſelf for Abſolution, and there<g ref="char:EOLhyphen"/>fore it could not be deny'd him.</hi> But how does that appear? Let us ſee what Qualifications the Church of <hi>England</hi> re<g ref="char:EOLhyphen"/>quires of ſuch as deſire to receive that Benefit from her Miniſters, which conſiſts in the following particulars. <hi>Firſt,</hi> That he be of a right Faith. <hi>Secondly,</hi> That he re<g ref="char:EOLhyphen"/>pent him of all his Sins, which Repentance made known by his forgiving freely from the <hi>Bottom of his Heart</hi> all Offences againſt him; That he <hi>ask forgiveneſs</hi> of whoſoever he hath <hi>Offended;</hi> And if he hath <hi>done In<g ref="char:EOLhyphen"/>jury or Wrong, that he make Amends to the utter<g ref="char:EOLhyphen"/>moſt of his Power,</hi> &amp;c. (For if the Injur'd Perſon cannot be Forgiven of God, unleſs he remits that in<g ref="char:EOLhyphen"/>jur'd him, how ſhall he that <hi>Wrongs others, and makes not Reſtitution</hi> hope for Pardon? And this Reſtitution ought to be ſuch, that to the extent of his Capacity, the Injur'd Perſon may no <hi>Looſer, nor in Danger of Suffering,</hi> either in Body or Eſtate by him.) Theſe things the Miniſter ought to exhort him to; if Mr. <hi>Col<g ref="char:EOLhyphen"/>lier</hi> did ſo, it ſeems Sir <hi>William</hi> made little Account of his Exhortation, or elſe <hi>the Miſunderſtanding was extraor<g ref="char:EOLhyphen"/>dinary</hi> between them.</p>
+            <p>
+               <pb n="4" facs="tcp:38231:3"/>
+For if Mr. <hi>Collier</hi> did ſet before him the Horridneſs of the Deſign to Murther the King, and the Unnaturalneſs of his Aſſiſting to introduce a Foreign Power upon us, how came it that he did not preſs him to publiſh his Sor<g ref="char:EOLhyphen"/>row and Repentance for having engag'd therein, by inſer<g ref="char:EOLhyphen"/>ting a Declaration of it to the World, <hi>in that Paper which he believed he intended to leave behind him?</hi> Why did not he urge him to make amends, by the Diſcovery of thoſe Men, who he knew were diſpos'd through his means, to execute ſo great a Villany? Muſt Compaſſion for ſuch Miſcreants, over-ballance the Conſideration of the Life of a Prince left to hazard, and the Embroiling of a Kingdom in War and Bloodſhed? This may ſeem to ſome Men, ſomething like a Heroe, but I am ſure it is no Vertue to qualify a Chriſtian for the Pardon of his Sins. Sure Mr. <hi>Collier</hi> was ſo tender of his Penitent as to omit theſe things; which yet, if we may judge by the viſible Effects, we have but too much Reaſon to fear he did. God deliver us from ſuch Compaſſion, as <hi>Sacrificeth the In<g ref="char:EOLhyphen"/>nocent to the Guilty,</hi> and gives <hi>Advantages</hi> to ſuch as wou'd bring Ruine upon the Nation.</p>
+            <p>But not to loſe our Defence-Maker, where he is now a<g ref="char:EOLhyphen"/>mong his Particulars, ſays, <hi>Some are offended at the Per<g ref="char:EOLhyphen"/>formance with Impoſition of Hands, which he juſtifies to be an Innocent and Ancient Cuſtom.</hi> To which I reply once again, that it was neither the Matter nor the Form, nor the Cir<g ref="char:EOLhyphen"/>cumſtances of Place confider'd in themſelves, that were ſo Offenſive, but the unqualify'd State of the Man, as ap<g ref="char:EOLhyphen"/>pear'd after by his Speech more plainly, to receive ſo Frank and Pompous an <hi>Abſolution.</hi> From ſuch unworthy Proſti<g ref="char:EOLhyphen"/>tution of the Office of the Church, aroſe the Scandal. <hi>Others,</hi> ſays he next, <hi>are ſhock'd at the thing it ſelf. The Preſumption of admitting a Perſon charg'd with ſo high a Crime, to the benefit of Abſolution; which,</hi> he ſays, <hi>is concluding too faſt.</hi> And An<g ref="char:EOLhyphen"/>ſwers
+<pb n="5" facs="tcp:38231:3"/>by the way of Query, <hi>Are all Damn'd that are caſt in a Capital Indictment? If ſo,</hi> continues he, <hi>then why are they Viſited by Divines, exhorted to Repentance, and have time allow'd them to prepare for Death,</hi> and ſo forth. But if this Gentleman be not too much in haſte, I would fain know of him, for what ſort of People be deſign'd this wiſe <hi>Que<g ref="char:EOLhyphen"/>ry?</hi> Does he really think, that there are any ſuch as be<g ref="char:EOLhyphen"/>lieve, that a Man condemn'd by the Law, is thereby made utterly incapable of Repenting, and of receiving Mercy in the other World? I defie him to point out to us any ſuch; and in return I muſt tell him, that he does not put the <hi>Question</hi> fair, but ſeems rather to ſhun it by a diſinge<g ref="char:EOLhyphen"/>nious Evaſion. He knew well enough, that the Offence Was taken, as I ſaid before, at the ſmall or no appearance, that there was of Sir <hi>Williams</hi> being in a State to receive the Benefit of Pardon. Here he repeats again, <hi>That he had qualify'd himſelf,</hi> and inſinuates, <hi>that he had Recollected, Re<g ref="char:EOLhyphen"/>pented, and Reſign'd himſelf.</hi> The conſequences of which Acts, we afterwards ſaw manifeſtly by his Behaviour, with reſpect to one of the chief, if not the greateſt Crime that he could ever be guilty of; which he Recollected with an Excuſe, repented of without asking Pardon, or making any Reparation for, but what he was forc'd to, which made up his Reſignation, and compleated his Penitence. And where now ſhall we find Reaſon to conclude, that Sir <hi>William</hi> was <hi>releas'd in Heaven?</hi> Where are, I ſsay once again, thoſe Marks of that deep ſorrow, &amp; hearty contrition which are requiſite on ſuch Occaſions? 'Tis true, we may and do hope, almoſt againſt Hopes; but to be ſo poſitive in ſuch Circumſtances, was to conclude too faſt by his Fa<g ref="char:EOLhyphen"/>vour. This I can aſſure Mr. <hi>Collier,</hi> that even ſome of his own Friends think, the beſt they can ſay for him in this matter, is, that he has been impos'd upon, and that his Good Nature had in this Juncture, gain'd the Aſcen<g ref="char:EOLhyphen"/>dant over his Reaſon.</p>
+            <p>
+               <pb n="6" facs="tcp:38231:4"/>
+               <hi>Pag.</hi> 4. He repeats again the Reaſon why he gave it him in Publick; but this is little to the purpoſe. The Grand <hi>Queſtion</hi> is not ſo much, Why he did not give it him privately? As, <hi>Why he gave it him at all? <hi>Hic Labor, hoc Opus.</hi>
+               </hi> The reſt is meer Evaſion, and a ſly Elu<g ref="char:EOLhyphen"/>ding of the Difficulty. <hi>It is objected,</hi> ſays he, <hi>That Sir</hi> William <hi>confeſs'd himſelf acquainted with</hi> (he might have ſaid, Privy, however) <hi>to the intended Aſſaſſination.</hi> And here we have him fencing again with his <hi>Queries; Did he tell it to me? If he did,</hi> ſay we, <hi>the Satisfaction he made thereupon, was but very Indifferent: If he did</hi> (continues Mr. <hi>Collier,</hi>) <hi>Have I reveal'd it, or any part of his Confeſſion?</hi> Oh no: <hi>Then he had been within the reach of the Cannon, and in danger of being made utterly Irregular:</hi> And he that falls under that Curſe, is for ever incapable of officiating, or giving any more <hi>Abſolutions.</hi> But let us ſee what the Canon it ſelf ſays, for this Man is endeavouring to make <hi>Black</hi> White to us, for all his ſhew of Modeſty. The Ca<g ref="char:EOLhyphen"/>non is the 113, where it is provided, that Miniſters may preſent Scandalous Offenders: There is this Exception, <hi>That if any Man confeſs his Secret, and hidden Sins to the Mi<g ref="char:EOLhyphen"/>niſter, for the unburthening of his Conſcience, and ſo receive ſpiritual Conſolation and Eaſe of Mind from him; we do not any way bind the Miniſter by this Conſtitution, but do ſtraitly charge and admoniſh him, That he do not at any time reveal and make known to any, the Crime <hi>committed to his Secre<g ref="char:EOLhyphen"/>cy, except</hi> they be of <hi>ſuch Crimes,</hi> as by the Laws of this Realm, his own Life may be queſtion'd for concealing, under pain of Irregularity.</hi>
+            </p>
+            <p>And now SIR, What can any one ſee here, that ſhould compel Mr. <hi>Collier</hi> to conceal what Sir <hi>William</hi> confeſs'd to him of the Aſſaſſination? Nay rather, Does not this laſt Exception oblige him to make known what he reveal<g ref="char:EOLhyphen"/>ed to him, it being provided particularly for <hi>the Security
+<pb n="7" facs="tcp:38231:4"/>of the Realm;</hi> and when the Matter diſclos'd, is, concerning the Aſſaſſination of the KING, ſurely it falls under this Proviſion, <hi>without making ſo very large Suppoſitions.</hi> Sir <hi>William</hi> could not tell him This for ſo great a <hi>Secret;</hi> it was Notorious at his Tryal, and all the World ſaw it prov'd againſt him. The Reſerve in the Canon, was intended to prevent the hurting of Mens Reputation, by Publiſhing ſuch Faults; which when known, wou'd ſerve on<g ref="char:EOLhyphen"/>ly to increaſe uncharitable Cenſures among Neighbours; and for an Encouragement to a free and ingenuous Confeſſion, and not to <hi>ſtifle ſuch Crimes and Practices</hi> as, ſhould they take effect, would invole us in the moſt miſerable Confuſion. If Sir <hi>William</hi> did confeſs ingenuouſly, and like a true Penitent, he muſt have reveal'd the whole Deſign to him; which had oblig'd Mr. <hi>Collier</hi> to preſs him to make a full Diſcovery, and upon Denyal, to refuſe him Abſolution. This was the leaſt that could be expected of him; and I appeal to any Man, Whether Mr. <hi>Collier</hi> acting ſo contrary, has not given too much occaſion for the Accuſation againſt him of Misbehaviour: But it ſeems it is neceſſary, That the Juſtice of the Nation be Arraign'd in every particular, and that theſe Men are agreed to acquit one another. In fine, The whole Demeanor of Mr. <hi>Collier</hi> in this Affair, ſeems to me, to be moſt ſurprizing and unaccountable, that he ſhould have, as I ſaid, ſo much Compaſ<g ref="char:EOLhyphen"/>ſion for the Criminal, and ſo little Conſideration of his Crime; that he ſhould firſt act ſo very unadviſedly, and then defend him<g ref="char:EOLhyphen"/>ſelf with ſo much Shifting and Diſingenuity. The beſt of his De<g ref="char:EOLhyphen"/>fence, amounting to no more, than endeavouring to repreſent him<g ref="char:EOLhyphen"/>ſelf <hi>Ignoramus. Has he reveal'd to me? Did I ſee it in the Votes?</hi> Here I would ask Mr. <hi>Collier,</hi> How he came to be ſo indifferent on this occaſion? The Expectations from that Tranſaction were great, and the News of it publick beforehand. (The Report being made on <hi>Thurſday.</hi>) Methinks he who had been debarr'd the Li<g ref="char:EOLhyphen"/>berty of Viſiting him, it may be upon that very occaſion, ſhould have had ſo much concern for his Care, as to uſe all poſſible means to be inform'd of the Deportment of his Penitent, in order to the great Work he was deſir'd to perform for him, How did he know what he might ſay to them? But he ſeems to have acted on this Occaſion, like thoſe good humour'd Fathers, who out of tender<g ref="char:EOLhyphen"/>neſs to their Children, are <hi>compliant,</hi> and ſooth them in their Faults. Neglecting the more wholſom Rules of Diſcipline, give me leave to ſay Sir, That as Sir <hi>William</hi> gave little ſign to the World of his
+<pb n="8" facs="tcp:38231:5"/>Sorrow for his Guilt, which yet he ought to have done, he having offended all; ſo in my opinion, Mr.<hi>Collier</hi> has in his Paper, done as little either for his own or Sir <hi>William</hi>'s Vindication. For my part, I cannot perceive any thing in it, that ſhould hinder us from being ſtill of the opinion, That he has behav'd himſelf ill, and given juſt occaſion for the Bill againſt him. It is not the wiping of his Mouth, and ſaying with ſingular Modeſty, <hi>Wherein have I done harm?</hi> 'Tis not an unreaſonable <hi>Complaint of Hardſhips</hi> of his own procuring; 'tis not <hi>his diſclaiming the Methods of Murther,</hi> while he abſolves and defends the Conſpirators, both without and againſt Authority, and the Laws of Common Juſtice and Humanity: Nor in fine, 'tis none of all Theſe, together with his very civil Reflection of <hi>Rail<g ref="char:EOLhyphen"/>ing, Mercinarineſs, and Malice,</hi> upon thoſe that warn the World of the Evils of ſuch Practices, that will juſtify him before God or Man. But we ſhall ſtill continue to believe, That either Sir <hi>William</hi> learn'd his Behaviour of Mr. <hi>Collier,</hi> or that Mr. <hi>Collier</hi> has made his Defence by the Example of Sir <hi>William.</hi>
+            </p>
+            <p>And now Sir, I Suppoſe you think it high time, that I ſhould re<g ref="char:EOLhyphen"/>collect and make an end of this Letter, which that I may do the ſooner, I ſhall paſs over his <hi>Outcry of the Prieſthood, the Religion, and the Liturgy;</hi> 'tis pity he has not join'd the Cauſe for the great<g ref="char:EOLhyphen"/>er Efficacy, together with his impertinent and ſaucy <hi>Advice to the Clergy,</hi> with his <hi>diſtinguiſhing note of Ignorance upon their People,</hi> and his <hi>Magiſterial Menace, If for the future they do not teach them better.</hi>
+            </p>
+            <p>His canting Addreſs to <hi>thoſe in Power, i.e.</hi> they who bear the Tem<g ref="char:EOLhyphen"/>poral Authority, <hi>that they would rectify their Miſtakes, calm their Re<g ref="char:EOLhyphen"/>ſentments, and put a ſtop to their Severities. Paulo majora canamus.</hi> I ſupoſe he wou'd have them reverſe the Judgment againſt Sir <hi>Wil<g ref="char:EOLhyphen"/>liam,</hi> reduce things so their old Poſture, that K. <hi>James</hi> might be re<g ref="char:EOLhyphen"/>plac'd in the Throne, &amp; the Biſhops in the Tower; that the Laws which were made for the defence of the the People, might be diſpenc'd with to their deſtruction, by virtue of which Prerogative, we might once again behold <hi>Jeſuites</hi> the Privy Council, Popiſh Judges in <hi>Weſtminſter-Hall,</hi> Officers unqualify'd in the Army, and our Col<g ref="char:EOLhyphen"/>ledges and Schools made Seminaries of Superſtition and Idolatry, which by <hi>never to be forgotten Experience</hi> we know muſt follow, could theſe Men bring about what they are ſo zealous after. But I conclude, heartily deſiring that they may ſee and acknowledge their Error, and that they would, while there is yet opportunity, unite with Us in our Common Defence, againſt the Publick Enemy, which is the unfeigned Wiſh, and earneſt Prayer of</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your moſt Humble Servant, <hi>P. H.</hi> J.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Lond.</hi> Printed by <hi>I. Dawks</hi> in <hi>Wardrobe Court</hi> in <hi>Carter-lane,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
